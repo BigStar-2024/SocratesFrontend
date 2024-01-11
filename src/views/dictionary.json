@@ -1,0 +1,12 @@
+{
+  "en-us" : {
+    "review": "Review"
+  },
+  "es-mx" : {
+    "review": "Revisar"
+  },
+  "th" : {
+    "review": "ทบทวน"
+  },
+  "test": "test string"
+}

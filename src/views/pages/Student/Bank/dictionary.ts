@@ -1,0 +1,50 @@
+export const dictionary: any = Object.freeze({
+    'en-us': {
+        bank: 'BANK',
+        latestTransactions: 'Latest Transactions',
+        deposit: 'Deposit',
+        withdrawal: 'Withdrawal',
+        interest: 'Interest',
+        accountBalance: 'Account Balance',
+        levels: 'Levels',
+        savingsTitle: 'Savings Title',
+        value: 'Value',
+        perWeek: 'Per Week',
+        date: 'Date',
+        type: 'Type',
+        amount: 'Amount',
+        amountIsEmpty: 'Amount is empty'
+    },
+    'th' :{
+        bank: 'ธนาคาร',
+        latestTransactions: 'ธุรกรรมล่าสุด',
+        deposit: 'เงินฝาก',
+        withdrawal: 'การถอนเงิน',
+        interest: 'ระดับออมทรัพย์',
+        accountBalance: 'ยอดเงินในบัญชี',
+        levels: 'ดอกเบี้ย',
+        savingsTitle: 'ชื่อออมทรัพย์',
+        value: 'มูลค่า',
+        perWeek: 'ต่อสัปดาห์',
+        date: 'วันที่',
+        type: 'รายการ',
+        amount: 'จำนวน',
+        amountIsEmpty: 'จำนวนเงินว่างเปล่า'
+    },
+    'es-mx': {
+        bank: 'BANCO',
+        latestTransactions: 'Últimas transacciones',
+        deposit: 'Depósito',
+        withdrawal: 'Retiro',
+        interest: 'Intereses',
+        accountBalance: 'Saldo de la cuenta',
+        levels: 'Niveles',
+        savingsTitle: 'Título de ahorro',
+        value: 'Valor',
+        perWeek: 'Por semana',
+        date: 'Fecha',
+        type: 'Tipo',
+        amount: 'Monto',
+        amountIsEmpty: 'La cantidad está vacía'
+    }
+});
